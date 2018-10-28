@@ -12,4 +12,7 @@ Also make a pull request, if you find any bugs, add missing steps, or think you 
 
 ### Write tutorials on gitbook
 
-This is how you do that . Blah blha blhah wait for mos phone to charge
+Go to the gitbook link: \(link\)
+
+make pull requests by blha blah
+
